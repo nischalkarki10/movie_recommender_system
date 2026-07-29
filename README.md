@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+#  Movie Recommendation System
 
 A content-based movie recommendation system that recommends movies based on their similarity to a selected movie.
 
@@ -6,7 +6,7 @@ The project uses feature-based similarity to identify movies with similar charac
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Recommendation systems are widely used to help users discover relevant content from large collections of items.
 
@@ -18,7 +18,7 @@ The trained similarity matrix is used to efficiently retrieve the most similar m
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -32,7 +32,7 @@ The main objectives of this project are:
 
 ---
 
-## 🧠 Recommendation Approach
+##  Recommendation Approach
 
 The system follows a content-based recommendation approach.
 
