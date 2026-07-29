@@ -4,7 +4,6 @@ A content-based movie recommendation system that recommends movies based on thei
 
 The project uses feature-based similarity to identify movies with similar characteristics and provides an interactive Streamlit interface for generating recommendations.
 
----
 
 ##  Overview
 
